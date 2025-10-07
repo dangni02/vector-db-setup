@@ -12,6 +12,7 @@ PostgreSQL + pgvector 기반 Vector Database 환경 구축
 ### 1. Clone
 - git clone https://github.com/dangni02/vector-db-setup.git
 - cd vector-db-setup
+- ./venv/Scripts/activate
 
 ### 2. 실행
 - chmod +x setup.sh
