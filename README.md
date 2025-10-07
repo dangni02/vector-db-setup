@@ -14,18 +14,14 @@ PostgreSQL + pgvector 기반 Vector Database 환경 구축
 - cd vector-db-setup
 
 ### 2. 실행
-chmod +x setup.sh
-./setup.sh
+- chmod +x setup.sh
+- ./setup.sh
 
 ### 3. 테스트
 ```bash
 pip3 install -r requirements.txt
 
 python3 test_connection.py
-
-## 4. 패키지 설치
-chmod +x setup.sh
-./setup.sh
 
 ## 🔌 접속 정보
 
