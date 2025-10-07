@@ -4,7 +4,7 @@ numpy==1.24.3
 gdown==4.7.1
 crewai
 openai
-psycopg2-binary
+psycopg2
 pgvector
 python-dotenv
 numpy
