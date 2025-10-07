@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.*.local
+
+# 대용량 파일
+backup.dump
+*.dump
+
+# Python
+__pycache__/
+*.pyc
